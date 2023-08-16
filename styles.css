@@ -3,17 +3,34 @@ body{
 	background-color: rgb(204, 204, 204)
 }
 .player_one{
-	background-color:rgb(255, 255, 255);
 
+	width:300px;
+	background-color:rgb(255, 255, 255);
+	
 	padding:10px;
 	border-radius:10px;
 	list-style:none;
 }
 .player_two{
+	
 	background-color:rgb(255, 255, 255);
-
-	padding:10px;
+	
+	padding:px;
 	border-radius:10px;
 	list-style:none;
 	
+}
+.mp3-div{
+	text-align:left;
+	width:320px;
+	color:white;
+	background-color:black;
+	border-radius:20px;
+	
+	
+}
+.mp4-div{
+	width:300px;
+	background-color:;
+	border-radius:20px;
 }
